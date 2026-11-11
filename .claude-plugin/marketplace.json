@@ -1,0 +1,13 @@
+{
+  "name": "chameleon-mcp",
+  "owner": {
+    "name": "Materia Technologies, Inc."
+  },
+  "plugins": [
+    {
+      "name": "chameleon",
+      "source": "./",
+      "description": "Chameleon UI docs, checks, and color utilities for Web/JS, React, Blazor, Angular, Vue, and Svelte."
+    }
+  ]
+}

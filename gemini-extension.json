@@ -1,0 +1,10 @@
+{
+  "name": "chameleon",
+  "version": "1.0.0",
+  "description": "Chameleon UI docs, checks, and color utilities for Web/JS, React, Blazor, Angular, Vue, and Svelte.",
+  "mcpServers": {
+    "chameleon": {
+      "httpUrl": "https://chameleonui.io/mcp"
+    }
+  }
+}

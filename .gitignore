@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Windows
+Thumbs.db
+
+# Signing keys, such as the MCP Registry key: never commit them
+*.pem

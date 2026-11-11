@@ -1,0 +1,10 @@
+{
+  "name": "chameleon",
+  "version": "1.0.0",
+  "description": "Chameleon UI docs, checks, and color utilities for Web/JS, React, Blazor, Angular, Vue, and Svelte.",
+  "author": {
+    "name": "Materia Technologies, Inc."
+  },
+  "homepage": "https://chameleonui.io",
+  "repository": "https://github.com/materia-technologies-inc/chameleon-mcp"
+}

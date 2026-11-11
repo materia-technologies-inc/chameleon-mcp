@@ -1,0 +1,35 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.chameleonui/mcp",
+  "title": "Chameleon UI",
+  "description": "Chameleon UI docs, checks, and color utilities for Web/JS, React, Blazor, Angular, Vue, and Svelte.",
+  "version": "1.0.0",
+  "websiteUrl": "https://chameleonui.io",
+  "repository": {
+    "url": "https://github.com/materia-technologies-inc/chameleon-mcp",
+    "source": "github",
+    "id": "1444163457"
+  },
+  "icons": [
+    {
+      "src": "https://chameleonui.io/icons/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    },
+    {
+      "src": "https://chameleonui.io/icons/favicon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://chameleonui.io/mcp"
+    }
+  ]
+}
